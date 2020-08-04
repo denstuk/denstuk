@@ -4,6 +4,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DenStuk)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+const code = ["JavaScript", "Typescript", "Python", "C#"];
+const client = ["React", "Next"];
+const server = ["Express", "Koa"];
+const db = ["PostgreSQL", "MongoDB", "MySQL"];
+const devOps = ["Docker", "Kubernetes", "GitLab", "Kraken"];
 ```
