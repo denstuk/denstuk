@@ -1,5 +1,5 @@
-### Hi there, I'm Denis Stuk
+## Hi there, I'm Denis Stuk
 
 ## I'm JS Full-Stack Developer
-# For Back-end I prefer: NodeJs, Typescript, Express
-# For Front-end I prefer: React and Next
+### For Back-end I prefer: NodeJs, Typescript, Express
+### For Front-end I prefer: React and Next
