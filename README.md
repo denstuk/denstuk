@@ -1,7 +1,7 @@
 # 🔥 Hi there, I'm Denis Stuk
 ### 💻 TypeScript Full Stack Developer | .NET Developer  
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/DenStuk/DenStuk/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I'm programmer from Russia. Working on backend development using such programming languages as TypeScript and C#. 
 
