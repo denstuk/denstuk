@@ -1,5 +1,5 @@
 # 🔥 Hi there, I'm Denis Stuk
-💻 TypeScript Full Stack Developer | .NET Developer  
+### 💻 TypeScript Full Stack Developer | .NET Developer  
 
 🚀 Learning:
 * ASP.NET Core
