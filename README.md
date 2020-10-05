@@ -12,7 +12,7 @@ Currently improving my ASP.NET and DevOps skills. Working on personal ML project
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DenStuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DenStuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
