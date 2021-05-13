@@ -1,5 +1,5 @@
 # 🔥 Hi there, I'm Denis Stuk
-### 💻 TypeScript Full Stack Developer | .NET Developer  
+## 💻 Software Engineer
 
 I'm programmer from Russia. Working on backend development using such programming languages as TypeScript and C#. 
 
