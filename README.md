@@ -7,10 +7,10 @@ I'm programmer from Russia.
 Currently improving my ASP.NET and DevOps skills. Working on personal ML project and some projects for portfolio. Also I'm learning about Theoretical Computer Science with C++. Looking at Rust programming language.
 
 #### 🧰 Tools
-<p align="center">
-  <a target="_blank" href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&logo=nodejs&logoColor=3C873A"></img></a>
-  <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/-python-FFD43B?style=for-the-badge&logo=python&logoColor=000000"></img></a>
-</p> 
+> NodeJS
+> Python
+> C++
+> C#
 
 #### 📫 Contact Me
 <p align="center">
