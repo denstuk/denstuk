@@ -5,9 +5,9 @@
 Currently improving my ASP.NET and DevOps skills. Working on personal ML project and some projects for portfolio. Also I'm learning about Theoretical Computer Science with C++. Looking at Rust programming language.
 
 #### 🧰 Tools
-Languages: `TypeScript` `C++` `Python` `C#` `Go`
-Frontend Frameworks: `React.js` `Vue.js`
-Backend Frameworks: `Express.js` `Nest.js` `Asp.Net Core`
+Languages: `TypeScript` `C++` `Python` `C#` `Go`  
+Frontend Frameworks: `React.js` `Vue.js`  
+Backend Frameworks: `Express.js` `Nest.js` `Asp.Net Core`  
 
 #### 📫 Contact Me
 <p align="center">
