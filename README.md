@@ -8,7 +8,7 @@ Currently improving my ASP.NET and DevOps skills. Working on personal ML project
 
 #### 🧰 Tools
 <p align="center">
-  <a target="_blank" href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-FFF?style=for-the-badge&logo=telegram&logoColor=3C873A"></img></a>
+  <a target="_blank" href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-FFF?style=for-the-badge&logo=nodejs&logoColor=3C873A"></img></a>
 </p> 
 
 #### 📫 Contact Me
