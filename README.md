@@ -2,7 +2,7 @@
 ## 💻 Software Engineer
 
 #### 🚀 What I'm focusing on
-Currently improving my ASP.NET and DevOps skills. Working on personal ML project and some projects for portfolio. Also I'm learning about Theoretical Computer Science with C++. Looking at Rust programming language.
+Currently improving my Data Science and DevOps skills. Working on personal ML project and some projects for portfolio. Also I'm learning about Theoretical Computer Science with C++. Looking at Rust programming language.
 
 #### 🧰 Tools
 Languages: `TypeScript` `C++` `Python` `C#` `Go`  
