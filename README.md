@@ -6,7 +6,7 @@ Currently improving my Data Science and DevOps skills. Working on personal ML pr
 
 #### 🧰 Current Tool Set
 Languages: `TypeScript` `C++` `Python` `C#` `Go`  
-Frontend Frameworks: `React.js`
+Frontend Frameworks: `React.js`  
 Backend Frameworks: `Express.js` `Nest.js` `Asp.Net Core`  
 
 #### 📫 Contact Me
