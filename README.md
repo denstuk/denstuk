@@ -4,7 +4,7 @@
 #### 🚀 What I'm focusing on
 Currently improving my Data Science and DevOps skills. Working on personal ML project and some projects for portfolio. Also I'm learning about Theoretical Computer Science with C++. Looking at Rust programming language.
 
-#### 🧰 Tools
+#### 🧰 Current Tool Set
 Languages: `TypeScript` `C++` `Python` `C#` `Go`  
 Frontend Frameworks: `React.js`
 Backend Frameworks: `Express.js` `Nest.js` `Asp.Net Core`  
