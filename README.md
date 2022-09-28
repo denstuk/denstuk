@@ -3,9 +3,9 @@
 
 #### 🚀 What I'm focusing on
 
-Currently improving my ASP.NET, C# and Solidity skills.
-Working on personal project.
-Also I'm learning about Theoretical Computer Science with C++.
+Currently improving my ASP.NET, C# and Solidity skills.<br/>
+Working on personal project.<br/>
+Also I'm learning about Theoretical Computer Science with C++.<br/>
 
 #### 📫 Contact Me
 <p>
