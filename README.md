@@ -2,7 +2,10 @@
 ## 💻 Software Engineer
 
 #### 🚀 What I'm focusing on
-Currently improving my Data Science and DevOps skills. Working on personal ML project. Also I'm learning about Theoretical Computer Science with C++.
+
+Currently improving my ASP.NET, C# and Solidity skills.
+Working on personal project.
+Also I'm learning about Theoretical Computer Science with C++.
 
 #### 📫 Contact Me
 <p>
