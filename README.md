@@ -1,11 +1,10 @@
 # 🔥 Hi there, I'm Denis Stuk
 ## 💻 Software Engineer
 
-#### 🚀 What I'm focusing on
-
-Currently improving my ASP.NET, C# and Solidity skills.<br/>
-Working on personal project.<br/>
-Also I'm learning about Theoretical Computer Science with C++, Rust.<br/>
+- 3 years in IT, worked in different areas, such as FinTech, FoodTech, EdTech and GameDev
+- Proficiency experience in back-end development (Node.js, C#, C++, Rust)
+- Strong experience in front-end development (React.js, Vue.js)
+- Experienced manager of development team, mentor, interviewer
 
 #### 📫 Contact Me
 <p>
