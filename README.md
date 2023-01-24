@@ -5,7 +5,7 @@
 
 Currently improving my ASP.NET, C# and Solidity skills.<br/>
 Working on personal project.<br/>
-Also I'm learning about Theoretical Computer Science with C++.<br/>
+Also I'm learning about Theoretical Computer Science with C++, Rust.<br/>
 
 #### 📫 Contact Me
 <p>
