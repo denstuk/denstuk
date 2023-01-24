@@ -1,5 +1,4 @@
-# 🔥 Hi there, I'm Denis Stuk
-## 💻 Software Engineer
+# 💻 Software Engineer | Solution Architect
 
 - 3 years in IT, worked in different areas, such as FinTech, FoodTech, EdTech and GameDev
 - Proficiency experience in back-end development (Node.js, C#, C++, Rust)
