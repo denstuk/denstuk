@@ -1,8 +1,9 @@
 # 💻 Software Engineer | Solution Architect
 
-- 3 years in IT, worked in different areas, such as FinTech, FoodTech, EdTech and GameDev
-- Proficiency experience in back-end development (Node.js, C#, C++, Rust)
-- Strong experience in front-end development (React.js, Vue.js)
+- 3 years in IT, worked in different industries, such as FinTech, FoodTech, EdTech and GameDev
+- Proficiency experience in back-end development (Node.js, Kotlin, Rust)
+- Strong experience in front-end development (React.js)
+- Skilled cloud engineer (AWS, Azure, Terraform) 
 - Experienced manager of development team, mentor, interviewer
 
 <p>
