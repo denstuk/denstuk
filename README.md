@@ -6,7 +6,7 @@
 - Experienced team/tech lead (9 people)
 - Experienced in mentoring, interviewing, and pre-sales expertise
 - Skilled cloud engineer (AWS, CDK, Terraform, K8s)
-- Enthusiastic Rust developer
+- Enthusiastic AI, MACH, and Rust developer
 
 <p>
   <a target="_blank" href="https://t.me/denstuk"><img src="https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9"></img></a>
