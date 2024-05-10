@@ -1,4 +1,4 @@
-# 💻 Software Engineer | Solution Architect
+# 💻 Software Engineer | Engineering Manager
 
 - Software Engineer with 4+ years of experience
 - Different business domains (FinTech, Enterprise, Automotive, etc.)
