@@ -1,7 +1,7 @@
 # 💻 Software Engineer | Engineering Manager
 
-Software engineer with 4+ years of experience (Life Science, Fintech, Crypto, E-Commerce, etc.) <br>
-Professional full-stack developer (Node.js, React.js, AWS). Enthusiastic AI, MACH, and Rust developer <br>
+Software engineer with 6+ years of experience (Life Science, Fintech, Crypto, E-Commerce, etc.)
+Professional full-stack developer (Node.js, React.js, AWS). Enthusiastic AI, MACH, and Rust developer
 Experienced team lead (9 people), people manager (5 people) <br>
 
 <p>
